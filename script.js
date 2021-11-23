@@ -9,16 +9,16 @@ var alphabetSmall = ["a" , "b" , "c" , "d" , "e" , "f" , "g" , "h" , "i" , "j" ,
 
 var alphabetCapital = ["A" , "B" , "C" , "D" , "E" , "F" , "G" , "H" , "I" , "J" , "K" , "L" , "M" , "N" , "O" , "P" , "Q" , "R" , "S" , "T" , "U" , "V" , "W" , "X" , "Y" , "Z"]
 
-// // Printing on the console
+// // Printing on the console..
     console.log(number);
     console.log(specialCharacter);
     console.log(alphabetSmall);
     console.log(alphabetCapital);
     
-// Initializing variable
+// Initializing variable..
 var minMaxLength = "";
 
-// Character length prompt
+// Character length prompt..
 function generatePassword() {
   var password = []
      var minMaxLength  = prompt ("How many chars you want it:");
