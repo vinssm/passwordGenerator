@@ -6,3 +6,4 @@
 
 ### The App asks user to choose numbers, special characters, uppercase and lowercase. And once all the prompt's are done, a password is generated on the screen.
 
+![03-javascript-homework-demo](https://user-images.githubusercontent.com/26659001/142769065-f401b472-4265-418e-ba1b-f8c3b2751fad.png)
